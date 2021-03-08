@@ -2,3 +2,5 @@
 .vs/
 notify_app/obj/
 notify_app/bin/
+notify_line/obj/
+notify_line/bin/
